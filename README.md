@@ -2,7 +2,7 @@
 
 ## Description
 
- An application that allows users to create a database, recieve, add, edit, and delete data from that database. 
+ The backend of an E-commerce application. It allows users to create a database, recieve, add, edit, and delete data from that database. 
 
   ## Table of Contents
 
