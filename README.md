@@ -2,7 +2,7 @@
 
 ## Description
 
- An application that allows users to create a database, add, edit, and delete info from that database. 
+ An application that allows users to create a database, recieve, add, edit, and delete data from that database. 
 
   ## Table of Contents
 
@@ -22,13 +22,13 @@
   ## Installation
   The following dependencies are required for this program:
   ```
-  Node, Express
+  Node, Express.js, MySql2, Sequelize, and dotenv.
   ```
 
   ## Usage
   To use the program, follow the instructions given:
   ```
-
+  Run npm run seed to seed the database. Then use Postman or a similiar app to get the data from the database, post new data to the database, overwrite existing data in the database using a put command, and delete existing data from the database. 
   ```
 
   ## License
